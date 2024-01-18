@@ -185,7 +185,7 @@ if __name__ == '__main__':
 
         elif "weather" in query:
             try:
-                API_key = "35a17cd0632e0df4b61eab70a07ef41c"
+                API_key = "Enter your API Key of OpenWeather Website"
                 base_url = f"http://api.openweathermap.org/data/2.5/weather?"
                 speak("What is the City name")
 
