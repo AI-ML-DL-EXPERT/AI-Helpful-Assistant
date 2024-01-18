@@ -1,2 +1,2 @@
 # AI-Helpful-Assistant
-This is a AI Assistant, which can perform various tasks like opening apps, Searching online, search on Wikipedia, Tell you the weather reports, and answer any of your questions. 
+This is an AI Assistant, that can perform various tasks like opening apps, Searching online, searching on Wikipedia, Telling you the latest news from the Technology sector, Telling you the weather reports, and answering any of your questions. 
